@@ -183,7 +183,7 @@ def channels_table():
     # Replace these values with your own MySQL server details
     host = "localhost"
     user = "root"
-    password = "Pass@8000"
+    password = "Pass@12345678"
 
     # Establish a connection to the MySQL server
     conn = mysql.connector.connect(host=host, user=user, password=password)
@@ -278,7 +278,7 @@ def playlist_table():
     # Replace these values with your own MySQL server details
     host = "localhost"
     user = "root"
-    password = "Pass@8000"
+    password = "Pass@12345678"
 
     # Establish a connection to the MySQL server
     conn = mysql.connector.connect(host=host, user=user, password=password)
@@ -370,7 +370,7 @@ def videos_table():
     # Replace these values with your own MySQL server details
     host = "localhost"
     user = "root"
-    password = "Pass@8000"
+    password = "Pass@12345678"
 
     # Establish a connection to the MySQL server
     conn = mysql.connector.connect(host=host, user=user, password=password)
@@ -496,7 +496,7 @@ def comments_table():
     # Replace these values with your own MySQL server details
     host = "localhost"
     user = "root"
-    password = "Pass@8000"
+    password = "Pass@12345678"
 
     # Establish a connection to the MySQL server
     conn = mysql.connector.connect(host=host, user=user, password=password)
@@ -725,7 +725,7 @@ import mysql.connector
 # Replace these values with your own MySQL server details
 host = "localhost"
 user = "root"
-password = "Pass@8000"
+password = "Pass@12345678"
 database = "youtube_database"  # Replace with your actual database name
 
 # Establish a connection to the MySQL server with the specified database

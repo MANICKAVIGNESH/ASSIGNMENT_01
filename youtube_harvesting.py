@@ -4,6 +4,8 @@ import mysql.connector
 import pandas as pd
 import streamlit as st
 
+server - app.server
+
 # connection of API key
 def connecting_api():
     api_id = "AIzaSyDg_whzMVY82lrMZtxb28O8ERgCIvpvmWc"

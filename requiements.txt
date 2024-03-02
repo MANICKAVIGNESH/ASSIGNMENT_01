@@ -1,0 +1,7 @@
+dash==2.6.0
+googleapiclient.discovery
+pymongo
+mysql.connector
+pandas
+streamlit
+gunicorn
